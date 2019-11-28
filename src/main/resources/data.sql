@@ -1,0 +1,1 @@
+insert into Alien values (101, 'Emre'), (102, 'Merve'), (103, 'Annie'), (104, 'Bobbie')
